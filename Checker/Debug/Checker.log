@@ -1,0 +1,8 @@
+﻿  Licence.cpp
+  main.cpp
+  Generating Code...
+Licence.obj : error LNK2019: unresolved external symbol __imp__curl_easy_init referenced in function "public: void __thiscall Licence::CheckLicence(char const *)" (?CheckLicence@Licence@@QAEXPBD@Z)
+Licence.obj : error LNK2019: unresolved external symbol __imp__curl_easy_setopt referenced in function "public: void __thiscall Licence::CheckLicence(char const *)" (?CheckLicence@Licence@@QAEXPBD@Z)
+Licence.obj : error LNK2019: unresolved external symbol __imp__curl_easy_perform referenced in function "public: void __thiscall Licence::CheckLicence(char const *)" (?CheckLicence@Licence@@QAEXPBD@Z)
+Licence.obj : error LNK2019: unresolved external symbol __imp__curl_easy_cleanup referenced in function "public: void __thiscall Licence::CheckLicence(char const *)" (?CheckLicence@Licence@@QAEXPBD@Z)
+D:\CheckerWin\Checker\Debug\Checker.exe : fatal error LNK1120: 4 unresolved externals

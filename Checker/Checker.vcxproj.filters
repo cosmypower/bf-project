@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="App">
+      <UniqueIdentifier>{2de31a43-ed16-4d52-bb89-d1a0ed6bce56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Methods">
+      <UniqueIdentifier>{89ed63c4-450b-47a4-a464-ce746cc657c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\API">
+      <UniqueIdentifier>{47d49a99-f34e-475f-a460-51ad01994c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Postman">
+      <UniqueIdentifier>{d1048361-e78c-473e-8d98-9617a0153526}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Licence.cpp">
+      <Filter>App\API</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Postman.cpp">
+      <Filter>App\Postman</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="Minecraft.cpp">
+      <Filter>App\Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="Netflix.cpp">
+      <Filter>App\Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="Callbacks.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Licence.h">
+      <Filter>App\API</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="Postman.h">
+      <Filter>App\Postman</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="Minecraft.h">
+      <Filter>App\Methods</Filter>
+    </ClInclude>
+    <ClInclude Include="Netflix.h">
+      <Filter>App\Methods</Filter>
+    </ClInclude>
+    <ClInclude Include="Callbacks.h">
+      <Filter>App</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

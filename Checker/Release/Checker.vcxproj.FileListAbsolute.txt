@@ -1,0 +1,2 @@
+D:\CheckerWin\Checker\Checker\Release\Checker.vcxproj.CopyComplete
+D:\Checker\Checker\Release\Checker.vcxproj.CopyComplete

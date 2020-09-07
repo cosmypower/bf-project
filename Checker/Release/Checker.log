@@ -1,0 +1,16 @@
+﻿  Callbacks.cpp
+  Console.cpp
+D:\Checker\Checker\Console.cpp(5,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Checker\Checker\Console.cpp(36,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Licence.cpp
+  Minecraft.cpp
+  Netflix.cpp
+  Postman.cpp
+  Utils.cpp
+  main.cpp
+  Generating code
+  2 of 942 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Checker.vcxproj -> D:\Checker\Release\Checker.exe
